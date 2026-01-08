@@ -1,2 +1,2 @@
-# testing
-it is just for a sample
+Simple Interest Calculator
+ formula:SI=(P*R*T)/100
